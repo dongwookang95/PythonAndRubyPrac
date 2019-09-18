@@ -1,4 +1,4 @@
-module Egoing
+module Practice
     module_function()
     def a()
       return 'a'

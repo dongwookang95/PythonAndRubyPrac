@@ -9,9 +9,9 @@ puts arr
 arr = ['A', 'B', 'C']
 arr.each(){|i| puts i}
 #same as below
-for value in arr
-  puts value
-end
+# for value in arr
+#   puts value
+# end
 
 
 
