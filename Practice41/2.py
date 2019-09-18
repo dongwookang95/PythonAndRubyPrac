@@ -14,3 +14,4 @@ i = Cs()
 Cs.static_method()
 Cs.class_method()
 i.instance_method()
+

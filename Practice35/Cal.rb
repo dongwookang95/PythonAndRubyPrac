@@ -2,10 +2,6 @@ class Cal
     def initialize(v1, v2)
         p v1, v2
     end
-
-    def wtf(v1, v2)
-        p v1, v2
-    end
 end
 
 
