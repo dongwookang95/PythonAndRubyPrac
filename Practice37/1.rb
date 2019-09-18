@@ -15,3 +15,4 @@ c1.show()
 
     #ruby doesn t allow us to access the instance
     #at the outside of method.
+    #why?

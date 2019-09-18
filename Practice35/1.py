@@ -1,3 +1,6 @@
+
+
+
 c1 = Cal.new(10,10)
 print(c1.add())
 print(c1.subtract())
